@@ -5838,7 +5838,7 @@ MonoBehaviour:
   dontDestroyMeshOnDelete: 0
   m_selectedFaces: 
   m_SelectedEdges: []
-  m_selectedTriangles: 85000000
+  m_selectedTriangles: b7000000
 --- !u!33 &1220436699
 MeshFilter:
   m_ObjectHideFlags: 0
